@@ -1,0 +1,12 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "Proxy server made with nodeJs, to provide Anonymity, Content filtering, Security, and bypass Geolocation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
